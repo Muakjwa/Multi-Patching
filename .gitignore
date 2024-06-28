@@ -1,0 +1,7 @@
+# Dataset not upload
+data_npy/val/val_acc.npy
+data_npy/test/test_acc.npy
+
+# cache data
+.ipynb_checkpoints
+__pycache__
